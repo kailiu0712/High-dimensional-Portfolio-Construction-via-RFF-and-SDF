@@ -1,5 +1,8 @@
 # Factor Portfolio (RFF + Markowitz) Research Toolkit
 
+Contributor: Kaihe Liu
+Tutor: Prof. Xi Wang at PKU
+
 A lightweight, modular Python research project for cross-sectional factor data preparation, Random Fourier Features (RFF) factor expansion, optional Partial Least Squares (PLS) dimensionality reduction, and ridge-regularized Markowitz portfolio construction. Includes an experiment runner to sweep hyperparameters and produce Sharpe-vs-factor-count plots.
 
 ## Features
